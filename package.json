@@ -1,0 +1,17 @@
+{
+  "name": "remark-crossref",
+  "version": "1.0.0",
+  "description": "Remark plugin to pull in ESV Bible Cross References",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "retext": "^8.1.0",
+    "vfile-reporter": "^7.0.4"
+  }
+}
